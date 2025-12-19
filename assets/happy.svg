@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="Happy smiling sun">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="35%">
+      <stop offset="0%" stop-color="#fff38a"/>
+      <stop offset="60%" stop-color="#ffd24d"/>
+      <stop offset="100%" stop-color="#ffb84d"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="90" r="44" fill="url(#g)" stroke="#ffb84d" stroke-width="2" />
+  <g stroke="#ffb84d" stroke-width="6" stroke-linecap="round">
+    <path d="M100 8v24"/>
+    <path d="M100 168v24"/>
+    <path d="M8 100h24"/>
+    <path d="M168 100h24"/>
+    <path d="M30 30l17 17"/>
+    <path d="M153 153l17 17"/>
+    <path d="M30 170l17-17"/>
+    <path d="M153 47l17-17"/>
+  </g>
+  <g fill="#2b2b2b">
+    <circle cx="85" cy="82" r="6" />
+    <circle cx="115" cy="82" r="6" />
+  </g>
+  <path d="M78 110c6 8 18 12 22 12s16-4 22-12" fill="none" stroke="#2b2b2b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
